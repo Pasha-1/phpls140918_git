@@ -7,7 +7,7 @@ class Migration
     public function start()
     {
         $capsule = Connection::getInstance();
-        //таблицццы 
+        //таблицццыыыыы
         $capsule::schema()->dropIfExists('brands');
         $capsule::schema()->create('brands', function (Blueprint $table) {
             $table->increments('id');
