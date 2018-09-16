@@ -330,7 +330,7 @@
                 "datetime",
                 "time"
             ],
-            "time": "2018-06-25T13:15:16+00:00"
+            "time": ""
         },
         {
             "name": "psr/container",
